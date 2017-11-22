@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  display: flex;
+  align-items: center;
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+  margin: auto;
+}
+
+main {
+  margin: auto;
+  width: 60%;
+  max-width: 980px;
+  min-width: 320px;
+}
+
+/* Standard Classes */
+.section {
+  margin: 20px 0;
+  text-align: left;
+}
+
+.section-small {
+  margin: 10px 0;
+}
+
+/* Buttons */
+.btn {
+  margin: 0 .5rem;
+  cursor: pointer;
+}

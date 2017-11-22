@@ -1,0 +1,12 @@
+.warning-block {
+  background-color: lightYellow
+}
+
+.error-block {
+  background-color: lightCoral
+}
+
+.warning-container {
+  padding: .5rem;
+  text-align: left;
+}

@@ -1,0 +1,28 @@
+.reader-container {
+  margin: 10px 0;
+  display: flex;
+  align-items: center;
+  border: 1px solid gray;
+}
+
+.reader-content {
+  flex-grow: 1;
+  text-align: left;
+  border-left: 1px solid gray;
+}
+
+.reader-select {
+  padding: 1rem;
+}
+
+.reader-select input:hover {
+  cursor: pointer;
+}
+
+.reader-info {
+  padding: .5rem;
+}
+
+.reader-status {
+  padding: .5rem;
+}
